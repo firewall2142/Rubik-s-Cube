@@ -1,4 +1,4 @@
-# Rubik-'s Cube Detector and Solving Robot
+# Rubik's Cube Detector and Solving Robot
 * `bot.ino`: arduino code
 * `sq_detect.py`: Detection Demo
 * `finalc.py` : For working with actual bot
